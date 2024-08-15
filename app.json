@@ -1,0 +1,32 @@
+{
+    "name": "QUEEN_ELISA-MD",
+    "description": "Queen Elisa Whatsapp Bot By ELISACODERS. You Must Fill This form for deploy bot !",
+    "repository": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD",
+    "logo": "https://raw.githubusercontent.com/DarkMakerofc/QUEEN-ELISA-MD/4.0.0-V/repo-data/repo-logo.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp QUEEN-ELISA-MD Bot"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Get using Scan QR Code or Using Pair code.",
+            "required": true
+        },
+        "MONGODB_URL": {
+            "description": "Put Mongodb Database Url for Run Bot",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}
