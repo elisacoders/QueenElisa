@@ -13,12 +13,12 @@
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/darkmakerofc?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md"><img title="Size" src="https://img.shields.io/github/repo-size/DarkMakerofc/Queen-Elisa-Md?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkMakerofc/Queen-Elisa-Md/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/darkmakerofc/QueenElisa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/QueenElisa?color=white&style=flat-square"></a>
+<a href="https://github.com/darkmakerofc/QueenElisa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/QueenElisa?color=yellow&style=flat-square"></a>
+<a href="https://github.com/darkmakerofc/QueenElisa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/QueenElisa?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/darkmakerofc/QueenElisa"><img title="Size" src="https://img.shields.io/github/repo-size/darkmakerofc/QueenElisa?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/darkmakerofc/QueenElisa/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/darkmakerofc/QueenElisa/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 </a>
 </div>
@@ -50,7 +50,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
 </br>
 
 ## 2. GET SESSION ID
@@ -63,7 +63,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 [TELEGRAM BOT](https://t.me/queen_elisa_pair_bot)
 
 ## Deploy.
- [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/QUEEN-ELISA-MD)
+ [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
   
 [![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
@@ -88,7 +88,7 @@ pkg install libwebp
 pkg install git -y
 pkg install nodejs -y 
 pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md
+git clone https://github.com/darkmakerofc/QueenElisa
 cd Queen-Elisa-Md
 npm install
 npm start
